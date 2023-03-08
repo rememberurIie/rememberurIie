@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://thumbs.gfycat.com/DapperNarrowCow-max-1mb.gif" width="128px" />
+  <img src="https://thumbs.gfycat.com/DapperNarrowCow-max-1mb.gif" width="1280px" />
   <br>
 </div>
   

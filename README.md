@@ -1,6 +1,6 @@
-<p align="center">
-![alt text](https://thumbs.gfycat.com/DapperNarrowCow-max-1mb.gif)
-<p>
+<div align="center">
+<img src="[/logo-og.png](https://thumbs.gfycat.com/DapperNarrowCow-max-1mb.gif)"
+</div>
   
 <p align="center">
 Hello Guy!👋 My name is J,Jay,JJ (up to you).

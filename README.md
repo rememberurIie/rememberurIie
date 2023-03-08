@@ -4,9 +4,8 @@ Hello Guy!👋 My name is J,Jay,JJ (up to you).
 
 --------------------------------------------
 
-- Now I'm studying 1st year Bachelor's degree in Science-Technology
-- Major of Computer-Technology
-- at Rajamangala University of Technology Thanyaburi
+- I am currently studying for a Bachelor's degree in Science-Technology, which is my first year of study
+- Major of Computer-Technology at Rajamangala University of Technology Thanyaburi
 
 
 

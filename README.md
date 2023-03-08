@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="https://thumbs.gfycat.com/DapperNarrowCow-max-1mb.gif" class="centerImage" alt="CH Logo"></p>
+<center><img src="https://thumbs.gfycat.com/DapperNarrowCow-max-1mb.gif" class="centerImage" alt="CH Logo"></center>
   
 <p align="center">
 Hello Guy!👋 My name is J,Jay,JJ (up to you).

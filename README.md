@@ -7,7 +7,9 @@ Hello Guy!👋 My name is J,Jay,JJ (up to you).
 --------------------------------------------
 
 - I am currently studying for a Bachelor's degree in Science-Technology, which is my first year of study
-- I am studying Computer-Technology as my major at Rajamangala University of Technology Thanyaburi.
+  and studying Computer-Technology as my major at Rajamangala University of Technology Thanyaburi.
+    
+- and currently I play League of Leagend and Osu!
 
 
 

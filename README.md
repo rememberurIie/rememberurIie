@@ -1,21 +1,14 @@
+----------------------------------------------------------------------------------------------
 <div align="center">
-                                    _                          _ _      
-                                   | |                        | (_)     
-  _ __ ___ _ __ ___   ___ _ __ ___ | |__   ___ _ __ _   _ _ __| |_  ___ 
- | '__/ _ \ '_ ` _ \ / _ \ '_ ` _ \| '_ \ / _ \ '__| | | | '__| | |/ _ \
- | | |  __/ | | | | |  __/ | | | | | |_) |  __/ |  | |_| | |  | | |  __/
- |_|  \___|_| |_| |_|\___|_| |_| |_|_.__/ \___|_|   \__,_|_|  |_|_|\___|
-                                                                        
-                                                                        
+<a href="https://ibb.co/xSs6VDZ"><img src="https://i.ibb.co/gM7Js3Y/Screenshot-2023-04-07-221500.png" alt="Screenshot-2023-04-07-221500" border="0"></a>
 </div>
-  
-<br>  
-  
-<div align="center">
-Hello Guy!👋 My name is J,Jay,JJ (up to you).
-  </div>
 
---------------------------------------------
+----------------------------------------------------------------------------------------------
+<div align="center">
+<strong>👋 Hello Guy! I'm Jay, JJ and other (up to you).</strong>
+  </div>
+  
+----------------------------------------------------------------------------------------------
 
 - I am currently studying for a Bachelor's degree in Science-Technology, which is my first year of study
   <br>and studying Computer-Technology as my major at Rajamangala University of Technology Thanyaburi.

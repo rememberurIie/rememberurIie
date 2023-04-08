@@ -1,4 +1,3 @@
-----------------------------------------------------------------------------------------------
 <div align="center">
 <a href="https://ibb.co/xSs6VDZ"><img src="https://i.ibb.co/gM7Js3Y/Screenshot-2023-04-07-221500.png" alt="Screenshot-2023-04-07-221500" border="0"></a>
 </div>

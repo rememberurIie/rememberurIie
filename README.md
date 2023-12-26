@@ -7,4 +7,8 @@
   <br>and studying Computer-Technology as my major at Rajamangala University of Technology Thanyaburi.
   <br><br>
   Please contact me with <a href="https://discordapp.com/users/161111988141817857">My Discord</a> and Email <a href="mailto:natipong.sanklar@gmail.com">natipong.sanklar@gmail.com</a>, thank you.
+  <br><br><br><br>
+  🧩
+  <br><br>
 </div>
+  
